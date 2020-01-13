@@ -1,3 +1,4 @@
+This is a simple quiz application developed using ReactJS, based on the tutorial by Knowledgehut: https://www.youtube.com/watch?v=aq-fCtg_gG4
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
